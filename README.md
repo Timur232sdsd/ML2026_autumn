@@ -1,1 +1,1 @@
-# RUDN_ML_autumn_2026
+# RUDN_MLautumn_2026
